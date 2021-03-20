@@ -1,0 +1,11 @@
+<style type="text/css">
+h1{
+cursor: url(/img/cursor.png), progress;
+}
+a, a:hover{
+cursor: url(/imag/cursor.png), help;
+}
+body{
+overflow: hidden;
+}
+</style>
